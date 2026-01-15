@@ -234,6 +234,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions, issues, or feedback:
 
 - **Repository Issues**: Open a new issue on [GitHub](https://github.com/dipesh127/My-Tickit-App/issues).
-- **Author**: Rajesh Chauhan and Dipesh Rauniyar – [GitHub Profile](https://github.com/dipesh127)[GitHub Profile](https://github.com/rajeshchau).
+- **Author**: Rajesh Chauhan [GitHub Profile](https://github.com/rajeshchau) and Dipesh Rauniyar – [GitHub Profile](https://github.com/dipesh127).
 
 Thank you for your interest in My Tickit App! 🚀
